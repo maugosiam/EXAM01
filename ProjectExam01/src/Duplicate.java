@@ -16,7 +16,7 @@ public class Duplicate {
         }
 
         for(int i = 0; i<tabelaKopia.length;i++) {
-            System.out.println(tabelaKopia[i]);
+            System.out.print("\""+tabelaKopia[i]+"\",");
         }
     }
 }
